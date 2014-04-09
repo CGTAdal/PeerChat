@@ -3,10 +3,16 @@
 PeerChat is a Simple Project for Peer to Peer Video Chat with Node.js and Socket.io.
 Feel Free to commit, Appreciated.
 
-
 ## Watch Live demo at
 
-  - [demo.com](http://demo.com).
+  - [Check Out Demo](http://peer-chat.herokuapp.com/).
+  - Open Browser,
+  - Enter Your name,
+  - Enter Room Name,
+  - Open Another Browser
+  - Enter Name
+  - Enter Same room name which entered before
+  - And You Go....
   
 
 ## Authors
